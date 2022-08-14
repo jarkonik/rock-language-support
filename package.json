@@ -1,0 +1,25 @@
+{
+  "name": "rock-language-support",
+  "displayName": "Rock Language Support",
+  "description": "Extension adding support for Rock Language",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "rock",
+      "aliases": ["Rock", "rock"],
+      "extensions": [".rck"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "rock",
+      "scopeName": "source.rock",
+      "path": "./syntaxes/rock.tmLanguage.json"
+    }]
+  }
+}
