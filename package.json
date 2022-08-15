@@ -20,7 +20,11 @@
         "extensions": [
           ".rck"
         ],
-        "configuration": "./language-configuration.json"
+        "configuration": "./language-configuration.json",
+        "icon": {
+          "dark": "./icon.png",
+          "light": "./icon.png"
+        }
       }
     ],
     "grammars": [
