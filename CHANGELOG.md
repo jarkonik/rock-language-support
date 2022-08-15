@@ -2,8 +2,6 @@
 
 All notable changes to the "rock-language-support" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+## [0.4.0]
 
 - Initial release
