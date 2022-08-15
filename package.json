@@ -2,6 +2,10 @@
   "name": "rock-language-support",
   "displayName": "Rock Language Support",
   "description": "Extension adding support for Rock Language",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jarkonik/rock-language-support"
+  },
   "version": "0.4.0",
   "engines": {
     "vscode": "^1.70.0"
