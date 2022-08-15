@@ -13,6 +13,8 @@
   "categories": [
     "Programming Languages"
   ],
+  "publisher": "Jaroslaw Konik",
+  "icon": "icon.png",
   "contributes": {
     "languages": [
       {
